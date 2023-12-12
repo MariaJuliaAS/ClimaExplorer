@@ -3,7 +3,7 @@
 ![image](https://github.com/MariaJuliaAS/ClimaExplorer/assets/145461566/374260ed-196b-4621-bc55-a3328153a289)
 
 # Objetivo
-O Weather Reader é uma aplicação simples que permite aos usuários buscar informações de temperatura para uma cidade específica. Utiliza a API OpenWeatherMap para obter dados em tempo real sobre o clima.
+O ClimaExplorer é uma aplicação simples que permite aos usuários buscar informações de temperatura para uma cidade específica. Utiliza a API OpenWeatherMap para obter dados em tempo real sobre o clima.
 
 # Funcionalidade 
 - **Busca por Cidade:** Os usuários podem inserir o nome de uma cidade na caixa de pesquisa.
